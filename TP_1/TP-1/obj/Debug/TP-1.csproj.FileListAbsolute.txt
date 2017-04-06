@@ -1,0 +1,12 @@
+G:\TP-1\TP-1\TP-1\bin\Debug\TP-1.exe.config
+G:\TP-1\TP-1\TP-1\bin\Debug\TP-1.exe
+G:\TP-1\TP-1\TP-1\bin\Debug\TP-1.pdb
+G:\TP-1\TP-1\TP-1\obj\Debug\TP_1.Properties.Resources.resources
+G:\TP-1\TP-1\TP-1\obj\Debug\TP-1.csproj.GenerateResource.Cache
+G:\TP-1\TP-1\TP-1\obj\Debug\TP-1.exe
+G:\TP-1\TP-1\TP-1\obj\Debug\TP-1.pdb
+E:\TP-1\TP-1\TP-1\bin\Debug\TP-1.exe.config
+E:\TP-1\TP-1\TP-1\obj\Debug\TP-1.exe
+E:\TP-1\TP-1\TP-1\obj\Debug\TP-1.pdb
+G:\TP-1\TP-1\TP-1\obj\Debug\TP-1.csprojResolveAssemblyReference.cache
+G:\TP-1\TP-1\TP-1\obj\Debug\TP_1.TP_1_Calculadora.resources
