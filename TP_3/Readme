@@ -1,0 +1,4 @@
+Mediante este programa se agregan alumnos y profesores a una Jornada, validando a que los mismos esten estudiando
+o Dando clases en la Universidad.
+Un profesor puede tener dos clases o puede que no haya profesores o alumnos para la clase espesífica.
+Bueno, no se, lean el código y fijanse, pero no rompan nada =)
